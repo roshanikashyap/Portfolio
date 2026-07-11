@@ -1679,7 +1679,7 @@ footer p{
                 RESPONSIVE
 ==========================================================*/
 
-@media(max-width:992px){
+@media(max-width:900px){
 
 .hero-container,
 .about-container,
@@ -1946,15 +1946,4 @@ padding:25px 0;
 /* ===== END ===== */
 
 }
-/* ===============================
-   DESKTOP VIEW - FULL WIDTH
-   =============================== */
 
-@media screen and (min-width: 1200px){
-
-    .container{
-        width:98%;
-        max-width:1600px;
-    }
-
-}
